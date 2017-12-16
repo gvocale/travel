@@ -1,6 +1,7 @@
 # Japan
 List of travel reccomandations
 
+----
 
 ## Osaka
 
@@ -57,6 +58,7 @@ Area on the river with offices
 ### Kitashinchi
 Lots of nightclubs for office workers, where they bring their mistresses
 
+----
 
 ## Tokyo
 
@@ -77,15 +79,15 @@ Next to the station there is a square with people hanging out dressed in costume
 ### Harajuku: Cat Street
 Street with fashionable shops / chains for young people. Trendy people in the street.
 
-## Ebisu
+### Ebisu
 Big shopping mall with nice shops for young adults, restaurants, clothing.
 It's where western people live.
 Again many vintage shops and places for coffee tea etc.
 
-## Daikanyama
+### Daikanyama
 Nice stylish shops, high class expensive hipster. Nice to have a walk around. Modern architecture. Go to Saturday Surf NYC shop in Daikanyama and hang out for free in their terrace at the back, with nice view of Tokyo.
 
-## Nakameguro
+### Nakameguro
 Hipster nieghborhood for 30+, lots of nice boutique shops around the river.
 
 ### Music
@@ -114,17 +116,20 @@ Is the one of Lost in Translation. Go to have a drink and listen to Jazz with a 
 - JBS Jazz Blue Soul ***
 - Forestlimit
 
+----
 
 ## Naoshima
 It is a little island with a bunch of museums and art installation. Lovely to spend one night there. Very calm and quiet. Book in advance if you want to spend a night. We stayed at Oyaji no Umi https://travel.rakuten.com/hotel/info/109394/ and eat at lots of nice little cafes.
 Went to the artsy public bath at night. Rented a bike and biked around the little town.
 
+----
 
 ## Hakone
 - Hot springs
 - Hakone Yurio
 - Hakone open air museum
 
+----
 
 ## Kyoto
 
@@ -166,10 +171,12 @@ Full of restaurant and bars on the canal, night area
 ### Jazz Yamatoya
 Check Jazz spot Yamatoya jazz-yamatoya.com
 
+----
 
 ## Nara
 "Nara is a very very lovely place to visit and I highly suggest you take a day trip here for body mind and soul <3 Its just wonderful and you can visit it just as a day trip its about 45 min. train ride from Kyoto!"
 
-  
+----
+
 ## Koyasan
 Eko-in Temple and is in Koyasan!
