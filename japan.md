@@ -1,6 +1,7 @@
 # Japan
 List of travel reccomandations
 
+
 ## Osaka
 
 ### Den Den Town / Nipponbashi
@@ -35,38 +36,29 @@ Area with trendy clothing shops, boutique
 ### Namba: Misono Building
 Mall with many bars inside
 
-#### Orange Street
+### Orange Street
 Clothing shops and cafes
 
-#### Dotombori
+### Dotombori
 big iconic neon Glico sign
 
-#### Amerika Mura
+### Amerika Mura
 Small reproduction of statue of liberty, cafes, bars, clubs
 
-#### Kuromon-Ichiba
+### Kuromon-Ichiba
 Food market in the street / galleria
 
-#### Tennoji
+### Tennoji
 Osaka tower, more shops
 
-#### Kitahama / Temmabashi
+### Kitahama / Temmabashi
 Area on the river with offices
 
-#### Kitashinchi
+### Kitashinchi
 Lots of nightclubs for office workers, where they bring their mistresses
 
 
-
-
 ## Tokyo
-
-
-Kurosawa near roppongi
-Restaurant on top of bic camera,
-Yokojo ebisu
-Kagurazaka
-
 
 ### Fish market
 Eat sushi in one of the restaurant nearby.
@@ -96,7 +88,6 @@ Nice stylish shops, high class expensive hipster. Nice to have a walk around. Mo
 ## Nakameguro
 Hipster nieghborhood for 30+, lots of nice boutique shops around the river.
 
-
 ### Music
 Check some of the Audiophile bars features in Resident Advisor article
 https://www.residentadvisor.net/features/2724
@@ -113,7 +104,6 @@ That's where we had our airbnb. It's like Williamsburg, lots of vintage clothing
 ### Tokyo Park Hyatt Hotel
 Is the one of Lost in Translation. Go to have a drink and listen to Jazz with a view over the city.
 
-
 ### Shibuya
 - Tokyu Hands (Toys shop, or other items for travelling or home)
 - Lion Cafe
@@ -128,7 +118,6 @@ Is the one of Lost in Translation. Go to have a drink and listen to Jazz with a 
 ## Naoshima
 It is a little island with a bunch of museums and art installation. Lovely to spend one night there. Very calm and quiet. Book in advance if you want to spend a night. We stayed at Oyaji no Umi https://travel.rakuten.com/hotel/info/109394/ and eat at lots of nice little cafes.
 Went to the artsy public bath at night. Rented a bike and biked around the little town.
-
 
 
 ## Hakone
@@ -181,6 +170,6 @@ Check Jazz spot Yamatoya jazz-yamatoya.com
 ## Nara
 "Nara is a very very lovely place to visit and I highly suggest you take a day trip here for body mind and soul <3 Its just wonderful and you can visit it just as a day trip its about 45 min. train ride from Kyoto!"
 
-
+  
 ## Koyasan
 Eko-in Temple and is in Koyasan!
